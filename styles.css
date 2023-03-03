@@ -1,1 +1,58 @@
 /* Write your CSS here! */
+header {
+    background-color: palevioletred;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #mainHeading{
+    color: whitesmoke;
+  }
+  .round {
+    border-radius: 50%;
+  }
+
+  h1 {
+    margin-top: 0;
+  }
+  
+  main {
+    padding: 40px;
+    background-color: black;
+    color: aliceblue;
+    padding-left: 100px;
+    padding-right: 407.6px;
+    text-align: justify;
+    font-size: 27.5px;
+    border-radius: 290px;
+    font-style: oblique;
+  }
+  article {
+padding: 79px;
+text-align: center;
+
+background-color: whitesmoke;
+font-size: 26px;
+color: black;
+font-style: normal;
+  }
+
+  footer {
+    background-color: palevioletred;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+
+  }
+
+  .tribe {
+    border-radius: 10%;
+    
+  }
+  .funParagraph {
+    color: green;
+  }
+  body {
+    margin: 8px;
+    display: block;
+  }
